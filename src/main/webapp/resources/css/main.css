@@ -1,0 +1,22 @@
+@CHARSET "UTF-8";
+
+.formtable {
+	width: 400px;
+	border: 1px solid blue;
+	display:block;
+	margin: 50px;
+	padding: 20px;
+}
+
+.label {
+	text-align: right;
+	vertical-align: top;
+}
+
+.control {
+	margin-left: 20px;
+}
+
+input[type=text] {
+	width: 300px;
+}
